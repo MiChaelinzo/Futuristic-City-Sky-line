@@ -21,4 +21,4 @@ setInterval(updateTime, 1000);
 
 // Finally, we set the scene to be the active scene
 scene.root.children.add(text);
-Engine.setCurrentScene(scene);
+Engine.setCurrentScene(scene;
